@@ -1,1 +1,7 @@
-# rosa
+# Rosa: Harnessing Robot States for Vision-Language and Action Alignment
+**Official Repository of Rosa.**
+
+The code will be released soon.
+
+- [ ] Training code
+- [ ] Inference code
