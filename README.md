@@ -3,5 +3,7 @@
 
 The code will be released soon.
 
+- [ ] Enviroment Setups
+- [ ] Dataset Preparing
 - [ ] Training code
 - [ ] Inference code
